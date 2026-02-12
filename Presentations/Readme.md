@@ -11,3 +11,6 @@ Magnifier effect
 Group and UnGroup 
 Alignment with QAT Shortcut
 Video Link: https://youtu.be/WqzT68RsZg4 
+
+chart site:<economist>.com
+ 
